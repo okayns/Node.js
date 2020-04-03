@@ -1,0 +1,12 @@
+{
+  "name": "exercise3",
+  "version": "1.0.0",
+  "description": "exercise-3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "enis",
+  "license": "ISC"
+}
