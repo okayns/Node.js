@@ -1,0 +1,10 @@
+<form class="form" action="/weather" method="POST">
+  <div class="form-group mb-4">
+    <input type="text" class="form-control" placeholder="City..." name="cityName">
+  </div>
+  <button type="submit" class="btn btn-primary mb-4">Search</button>
+</form>
+<div class="alert alert-dark" role="alert">
+  {{cityName}} {{weatherText}}
+  {{notFound}}
+</div>

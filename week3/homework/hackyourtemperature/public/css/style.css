@@ -1,0 +1,18 @@
+body {
+  color: #30475e;
+  padding: 2rem;
+  text-align: center;
+  background-color: #eaf6f6;
+}
+
+form {
+  margin: auto;
+  width: 50%;
+  margin: auto;
+}
+
+.alert,
+.form-control {
+  width: 50%;
+  margin: 1rem auto;
+}
