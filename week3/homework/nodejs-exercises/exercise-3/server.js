@@ -8,7 +8,7 @@ const data = {
 axios({
   method: 'post',
   url: 'https://reservation100-sandbox.mxapps.io/api/reservations',
-  data: data,
+  data,
   headers: {
     'Content-Type': 'application/json',
   },
